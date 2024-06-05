@@ -6,3 +6,4 @@ This project aims to perform a data cleaning steps using SQL Software. Furthermo
 
 ## Python Project
 [Stock Market Prediction Analysis with LSTM Model](Stock Prices Analysis and Prediction (yfinance library).ipynb)
+
